@@ -1,4 +1,3 @@
-// @ts-expect-error CSS imports are handled by Next.js at build time.
 import '@/app/ui/global.css';
 import { lusitana } from '@/app/ui/fonts';
 
